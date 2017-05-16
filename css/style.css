@@ -16,11 +16,20 @@ title {
 }
 #Winna{
 	font-size:25px;
-	padding-right:450px;
-	padding-left:450px;
+	 padding-right:450px; 
+	/* padding-left:300px; */
 }
+#Winna2{
+	 padding-right:450px; 
+	}
 #Lossa{
 	font-size:25px;
-	padding-right:450px;
-	padding-left:450px;
+	padding-right:450px; 
+	/* padding-left:300px; */
 }
+#lossa2{
+	padding-right: 450px;
+
+
+}
+
