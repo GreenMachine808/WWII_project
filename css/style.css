@@ -11,7 +11,7 @@ title {
 	font-family:fantasy;
 	text-align: center;
 	font-color:C30BE2;
-	Font-size:18px;
+	ont-size:18px;
 	
 }
 #Winna{
@@ -21,8 +21,13 @@ title {
 	 height: 200px;
 	 width: 200px;
 	/* padding-left:300px; */
-	background-image: url("assest/codebreaking");
+	
 
+}
+#codeimg{
+	height: 360px;
+	width: 400px;
+	background-image: url("../assest/codebreaking.png");
 }
 #Winna2{
 	 padding-right:450px; 
@@ -39,11 +44,16 @@ title {
 
 }
 #american_fleet{
-	 background-image: url("americasfleet.png");
-	height: 100px;
-	width: 100px;
+	 background-image: url("../assest/americasfleet.png");
+	height: 330px;
+	width: 600px;
 }
 #codebreakingpng{
 	height: 100px;
 	width: 100px;
+}
+#japanesefleet{
+	height:330px; 
+	width: 600px;
+	background-image: url("../assest/japansfleet.png");
 }
