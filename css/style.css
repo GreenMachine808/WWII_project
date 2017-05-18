@@ -28,19 +28,20 @@ title {
 	height: 360px;
 	width: 400px;
 	background-image: url("../assest/codebreaking.png");
+	text-align:center;
 }
 #Winna2{
-/* 	 padding-right:450px;  */
+	 padding-right:450px; 
 	font-size:25px;
 	}
 #Lossa{
 
 	font-size:23px;
-/* 	padding-right:450px;  */
+	padding-right:450px; 
 	/* padding-left:300px; */
 }
 #lossa2{
-/* 	padding-right: 450px; */
+	padding-right: 450px;
 	font-size:25px;
 
 
