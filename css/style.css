@@ -5,18 +5,18 @@ body {
 	font-family:fantasy;
 	margin-right:200px;
 	margin-left:200px;
-	font-size:18px;
+	font-size:19px;
 }
 title {
 	font-family:fantasy;
 	text-align: center;
 	font-color:C30BE2;
-	ont-size:18px;
+	ont-size:20px;
 	
 }
 #Winna{
 
-	font-size:25px;
+	font-size:23px;
 	 padding-right:450px; 
 	 height: 200px;
 	 width: 200px;
@@ -34,7 +34,7 @@ title {
 	}
 #Lossa{
 
-	font-size:25px;
+	font-size:23px;
 	padding-right:450px; 
 	/* padding-left:300px; */
 }
