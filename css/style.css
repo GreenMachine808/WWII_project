@@ -30,7 +30,7 @@ title {
 	height: 360px;
 	width: 400px;
 	background-image: url("../assest/codebreaking.png");
-	align:center;
+	float:center;
 }
 #Winna2{
 /* 	 padding-right:450px;  */
