@@ -20,6 +20,8 @@ title {
 /* 	 padding-right:450px;  */
 	 height: 200px;
 	 width: 200px;
+	text-align:left;
+	
 	/* padding-left:300px; */
 	
 
@@ -31,18 +33,21 @@ title {
 	text-align:center;
 }
 #Winna2{
-	 padding-right:450px; 
+/* 	 padding-right:450px;  */
 	font-size:25px;
+	text-align:left;
 	}
 #Lossa{
 
 	font-size:23px;
-	padding-right:450px; 
+	text-align:left;
+/* 	padding-right:450px;  */
 	/* padding-left:300px; */
 }
 #lossa2{
-	padding-right: 450px;
+/* 	padding-right: 450px; */
 	font-size:25px;
+	text-align:left;
 
 
 }
