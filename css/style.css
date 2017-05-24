@@ -1,17 +1,18 @@
 body {
 	text-align: center;
-	font-color:3FB8AF;
+	background-color:3FB8AF;
+	font-color:black;
 	font-family:Comic Sans MS;
 	margin-right:200px;
 	margin-left:200px;
 	font-size:19px;
 }
 body{
-	background-image: url("../assest/midwayatoll.png");
+/* 	background-image: url("../assest/midwayatoll.png");
 	height:960px;
-	width:1024px;
+	width:1024px; */
 /* 	background-color:3FB8AF; */
-	background-repeat: no-repeat;
+/* 	background-repeat: no-repeat; */
 }
 title {
 	font-family:Comic Sans MS;
