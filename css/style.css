@@ -8,6 +8,7 @@ body {
 }
 body{
 	background-image: url("../assest/midwayatoll.png");
+	 background-repeat: no-repeat;
 }
 title {
 	font-family:Comic Sans MS;
