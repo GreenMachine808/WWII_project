@@ -8,6 +8,8 @@ body {
 }
 body{
 	background-image: url("../assest/midwayatoll.png");
+	height:960px;
+	width:1024px;
 /* 	background-color:3FB8AF; */
 	background-repeat: no-repeat;
 }
